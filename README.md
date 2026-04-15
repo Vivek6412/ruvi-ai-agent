@@ -1,4 +1,4 @@
-# ⚡ Jarvis AI — Smart AI Chatbot
+# ⚡ Ruvi AI — Smart AI Chatbot
 
 A powerful AI assistant combining the best of ChatGPT, Claude, Perplexity, and Manus AI.
 
